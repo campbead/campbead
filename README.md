@@ -1,7 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/A6aHBCFqlE0Rq/giphy.gif" width="50%"/>
+</div>
+
 
 <!--
 **campbead/campbead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
